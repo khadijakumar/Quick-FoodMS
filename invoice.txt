@@ -1,0 +1,15 @@
+
+Customer Name : safcwed
+Delivery location :null jhanessburg
+Oder Number: 0.7959409773639158
+Restuarant Name : Tashas
+Email Address: Tasha@gmail.com
+
+if you need to contact the restaurant, their number is 3.42546688E8
+Resturants Location: joasads
+Your Food will be deliverd by: Jonny
+ Number of ordered meals: 2
+Total payable: 109
+List of ordered items: [Ljava.lang.String;@6acbcfc0
+Customers comments: 
+null Please expect delivery in 45min- 1h. 
